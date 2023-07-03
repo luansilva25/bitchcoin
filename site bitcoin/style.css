@@ -200,7 +200,12 @@ body {
   
 }
 
-
+.box{
+  width: 90%;
+  height: 100%;
+  margin : 15px;
+  border: 15px;
+}
 
 
 
